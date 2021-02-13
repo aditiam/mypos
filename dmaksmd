@@ -1,0 +1,53 @@
+[33mcommit 5fe3880067e80b4bf9770b30b017d5729b8d1e8c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Tue Jul 30 16:49:21 2019 +0700
+
+    indent fixed
+
+[33mcommit 2043bc07f966ce8e7eccf60b54c319d806a8b879[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Tue Jul 30 02:46:57 2019 +0700
+
+    updated table in database
+
+[33mcommit b338cf6857b0aab52ca62db30c7246e9f4ec1d6d[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Tue Jul 30 02:42:44 2019 +0700
+
+    added menu features products and generate qr-code
+
+[33mcommit 172e7ceaa6a43a0245928710fb5a502e0195ca77[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Tue Jul 30 02:19:39 2019 +0700
+
+    added menu features on product and generate barcode
+
+[33mcommit e1b9ef0f85bd3bdec577e6fea3d2c799e07f539f[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Tue Jul 30 01:54:14 2019 +0700
+
+    added menu features on product
+
+[33mcommit c41d7ff6996e4914d1fc54f7607f5ad4c304ed65[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Fri Jul 19 17:36:21 2019 +0700
+
+    editing config web server to live production
+
+[33mcommit 3ace0301dd27d8c8e1f5f210062aec0fba504cc3[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Fri Jul 19 15:43:11 2019 +0700
+
+    adding databases/mypos.sql
+
+[33mcommit a91d264c7e26627bc0d95dd9ab889629d33255aa[m
+Author: aditiam <aditiamuchlis23@gmail.com>
+Date:   Thu Jul 18 12:08:58 2019 +0700
+
+    initial commit!
+
+[33mcommit f67b1116ae6c97710c7cb31d20b00ffa4ec55946[m
+Author: Aditia Muchlis <aditiamuchlis23@gmail.com>
+Date:   Thu Jul 18 04:47:42 2019 +0000
+
+    Initial commit
